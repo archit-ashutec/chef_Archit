@@ -73,7 +73,6 @@ const controlAddRecipe = async function (newRecipe) {
   try {
     addRecipeView.renderSpinner();
     await model.uploadRecipe(newRecipe);
-    console.log(model.state.recipe);
 
     recipeView.render(model.state.recipe);
 
@@ -100,6 +99,5 @@ const init = function () {
   SearchView.addHandlerSearch(controlSearchResult);
   paginationView.addHandlerClick(controlPaginaton);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('hioiiitjkers');
 };
 init();
