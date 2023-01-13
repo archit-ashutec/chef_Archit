@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/archit-ashutec/forkify_archit/issues"
   },
-  "homepage": "https://github.com/Khwaeesh-ashutec/forkify#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2"
