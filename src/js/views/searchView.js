@@ -16,6 +16,7 @@ class SearchView {
       e.preventDefault();
       console.log("hiii");
       handler();
+      console.log('timne to play');
     });
   }
 }
