@@ -1,4 +1,4 @@
-7805
+7797
 44C:\archit\fortify-archit\node_modules\base-x133180838519612945 1
 58C:\archit\fortify-archit\node_modules\yaml\types\binary.js133180838517747937 0
 69C:\archit\fortify-archit\node_modules\core-js\stable\array\reverse.js133180839129086836 0
@@ -17,7 +17,7 @@
 68C:\archit\fortify-archit\node_modules\core-js\full\number\epsilon.js133180839093548264 0
 74C:\archit\fortify-archit\node_modules\core-js\modules\esnext.set.filter.js133180839099744927 0
 68C:\archit\fortify-archit\node_modules\@parcel\core\lib\serializer.js133180838613541796 0
-29C:\archit\fortify-archit\dist133180840385664763 1
+29C:\archit\fortify-archit\dist133180849014629578 1
 61C:\archit\fortify-archit\node_modules\chrome-trace-event\dist133180838530015132 1
 64C:\archit\fortify-archit\forkify-architecture-recipe-loading.png133177275768546592 0
 63C:\archit\fortify-archit\node_modules\core-js\full\math\log2.js133180839118825294 0
@@ -3127,7 +3127,7 @@
 66C:\archit\fortify-archit\node_modules\csso\lib\restructure\prepare133180838576760139 1
 58C:\archit\fortify-archit\node_modules\core-js\features\map133180839140728676 1
 85C:\archit\fortify-archit\node_modules\csso\lib\restructure\prepare\processSelector.js133180838574486226 0
-47C:\archit\fortify-archit\dist\index.6aab0f46.js133180840385555070 0
+47C:\archit\fortify-archit\dist\index.6aab0f46.js133180849014569740 0
 102C:\archit\fortify-archit\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133180838561909846 0
 62C:\archit\fortify-archit\node_modules\core-js\es\array\sort.js133180839132437873 0
 81C:\archit\fortify-archit\node_modules\csso\lib\restructure\prepare\specificity.js133180838577109202 0
@@ -3323,7 +3323,7 @@
 67C:\archit\fortify-archit\node_modules\core-js\actual\array\every.js133180839101175648 0
 68C:\archit\fortify-archit\node_modules\core-js\es\number\parse-int.js133180839125936281 0
 73C:\archit\fortify-archit\node_modules\css-tree\lib\syntax\atrule\media.js133180838603169520 0
-52C:\archit\fortify-archit\dist\index.987de634.css.map133180840385644823 0
+52C:\archit\fortify-archit\dist\index.987de634.css.map133180849014619605 0
 72C:\archit\fortify-archit\node_modules\css-tree\lib\syntax\atrule\page.js133180838607577734 0
 78C:\archit\fortify-archit\node_modules\core-js\features\number\virtual\index.js133180839109891220 0
 81C:\archit\fortify-archit\node_modules\core-js\internals\to-integer-or-infinity.js133180839136924580 0
@@ -3334,7 +3334,7 @@
 66C:\archit\fortify-archit\node_modules\css-tree\lib\parser\index.js133180838597873681 0
 74C:\archit\fortify-archit\node_modules\core-js\actual\regexp\constructor.js133180839089688583 0
 74C:\archit\fortify-archit\node_modules\core-js\features\object\to-string.js133180839138400634 0
-47C:\archit\fortify-archit\dist\logo.8a7af738.png133180840384398149 0
+47C:\archit\fortify-archit\dist\logo.8a7af738.png133180849013253251 0
 77C:\archit\fortify-archit\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133180838590074533 0
 67C:\archit\fortify-archit\node_modules\css-tree\lib\lexer\generic.js133180838593026642 0
 65C:\archit\fortify-archit\node_modules\css-tree\lib\lexer\index.js133180838597375009 0
@@ -3634,7 +3634,6 @@
 80C:\archit\fortify-archit\node_modules\core-js\actual\string\virtual\match-all.js133180839120091911 0
 69C:\archit\fortify-archit\node_modules\core-js\stable\string\substr.js133180839134861395 0
 66C:\archit\fortify-archit\node_modules\core-js\stable\string\sup.js133180839135240379 0
-47C:\archit\fortify-archit\dist\logo.726d37a8.png133180839268915612 0
 71C:\archit\fortify-archit\node_modules\core-js\stable\string\trim-end.js133180839138889323 0
 72C:\archit\fortify-archit\node_modules\core-js\stable\string\trim-left.js133180839138999038 0
 67C:\archit\fortify-archit\node_modules\core-js\stable\string\trim.js133180839139397975 0
@@ -4123,7 +4122,6 @@
 79C:\archit\fortify-archit\node_modules\core-js\modules\esnext.array.find-last.js133180839097912930 0
 81C:\archit\fortify-archit\node_modules\core-js\features\typed-array\int16-array.js133180839111771103 0
 69C:\archit\fortify-archit\node_modules\core-js\modules\es.math.sinh.js133180839094495729 0
-48C:\archit\fortify-archit\dist\index.f7626f62.css133180839268736094 0
 70C:\archit\fortify-archit\node_modules\core-js\features\map\group-by.js133180839106625067 0
 111C:\archit\fortify-archit\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\bar.js133180838543798270 0
 78C:\archit\fortify-archit\node_modules\core-js\actual\typed-array\find-index.js133180839102289639 0
@@ -4744,7 +4742,7 @@
 85C:\archit\fortify-archit\node_modules\core-js\features\number\virtual\to-precision.js133180839137473111 0
 77C:\archit\fortify-archit\node_modules\core-js\internals\string-html-forced.js133180839134143314 0
 80C:\archit\fortify-archit\node_modules\core-js\internals\string-pad-webkit-bug.js133180839134193186 0
-48C:\archit\fortify-archit\dist\index.987de634.css133180840385545119 0
+48C:\archit\fortify-archit\dist\index.987de634.css133180849014569740 0
 71C:\archit\fortify-archit\node_modules\core-js\internals\string-parse.js133180839134233075 0
 68C:\archit\fortify-archit\node_modules\@parcel\runtime-js\lib\helpers133180838564163824 1
 83C:\archit\fortify-archit\node_modules\core-js\internals\string-punycode-to-ascii.js133180839134422560 0
@@ -4824,7 +4822,6 @@
 54C:\archit\fortify-archit\node_modules\core-js\full\set133180839140429467 1
 66C:\archit\fortify-archit\node_modules\core-js\full\set-interval.js133180839130094143 0
 57C:\archit\fortify-archit\node_modules\core-js\full\string133180839139368045 1
-52C:\archit\fortify-archit\dist\index.f7626f62.css.map133180839268766013 0
 81C:\archit\fortify-archit\node_modules\@parcel\workers\test\integration\workerfarm133180838568711656 1
 70C:\archit\fortify-archit\node_modules\core-js\full\structured-clone.js133180839134592121 0
 70C:\archit\fortify-archit\node_modules\core-js\full\suppressed-error.js133180839135270298 0
@@ -6373,7 +6370,6 @@
 53C:\archit\fortify-archit\node_modules\clone\clone.iml133180838530962599 0
 52C:\archit\fortify-archit\node_modules\clone\clone.js133180838522973957 0
 56C:\archit\fortify-archit\node_modules\clone\package.json133180838509619662 0
-47C:\archit\fortify-archit\dist\index.e37f48ea.js133180839268955514 0
 53C:\archit\fortify-archit\node_modules\clone\README.md133180838515533854 0
 67C:\archit\fortify-archit\node_modules\chrome-trace-event\CHANGES.md133180838519602971 0
 68C:\archit\fortify-archit\node_modules\chrome-trace-event\LICENSE.txt133180838534971880 0
@@ -6859,7 +6855,6 @@
 81C:\archit\fortify-archit\node_modules\caniuse-lite\data\features\server-timing.js133180838672125132 0
 79C:\archit\fortify-archit\node_modules\caniuse-lite\data\features\shadowdomv1.js133180838673012768 0
 71C:\archit\fortify-archit\node_modules\caniuse-lite\data\features\sni.js133180838673920336 0
-51C:\archit\fortify-archit\dist\index.e37f48ea.js.map133180839269005379 0
 88C:\archit\fortify-archit\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133180838674359157 0
 80C:\archit\fortify-archit\node_modules\.bin\node-gyp-build-optional-packages-test133180839142793370 0
 79C:\archit\fortify-archit\node_modules\caniuse-lite\data\features\sql-storage.js133180838674847855 0
@@ -7608,7 +7603,7 @@
 63C:\archit\fortify-archit\node_modules\@parcel\core\src\index.js133180838600227387 0
 68C:\archit\fortify-archit\node_modules\@parcel\core\src\loadDotEnv.js133180838603289200 0
 74C:\archit\fortify-archit\node_modules\@parcel\core\src\loadParcelPlugin.js133180838603718055 0
-48C:\archit\fortify-archit\dist\icons.c14567a0.svg133180840375970680 0
+48C:\archit\fortify-archit\dist\icons.c14567a0.svg133180849004676198 0
 72C:\archit\fortify-archit\node_modules\@parcel\core\src\PackagerRunner.js133180838606081753 0
 69C:\archit\fortify-archit\node_modules\@parcel\core\src\projectPath.js133180838610280504 0
 61C:\archit\fortify-archit\node_modules\@parcel\core\src\public133180838614239953 1
@@ -7798,9 +7793,6 @@
 51C:\archit\fortify-archit\node_modules\.bin\svgo.ps1133180839142793370 0
 49C:\archit\fortify-archit\node_modules\.bin\terser133180839142803348 0
 53C:\archit\fortify-archit\node_modules\.bin\terser.ps1133180839142793370 0
-50C:\archit\fortify-archit\dist\favicon.76dd299c.png133180840369946793 0
-50C:\archit\fortify-archit\dist\favicon.8b2f57bf.png133180839268317230 0
-48C:\archit\fortify-archit\dist\icons.21bad73c.svg133180839268327264 0
-48C:\archit\fortify-archit\dist\icons.dfd7a6db.svg133180839268337170 0
-51C:\archit\fortify-archit\dist\index.6aab0f46.js.map133180840385644823 0
-40C:\archit\fortify-archit\dist\index.html133180840385545119 0
+50C:\archit\fortify-archit\dist\favicon.76dd299c.png133180848998981420 0
+51C:\archit\fortify-archit\dist\index.6aab0f46.js.map133180849014629578 0
+40C:\archit\fortify-archit\dist\index.html133180849014559765 0
