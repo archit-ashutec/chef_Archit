@@ -14,6 +14,11 @@
     <link rel="stylesheet" href="./src/sass/main.scss" />
 
     <title>forkify // Search over 1,000,000 recipes</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+    />
   </head>
 
   <body>
@@ -333,5 +338,23 @@
         </button>
       </form>
     </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+      data-cfasync="false"
+    ></script>
+    <script>
+      window.cookieconsent.initialise({
+        palette: {
+          popup: {
+            background: '#8bfb8900',
+          },
+          button: {
+            background: '#f48982',
+          },
+        },
+        theme: 'classic',
+        position: 'top',
+      });
+    </script>
   </body>
 </html>
