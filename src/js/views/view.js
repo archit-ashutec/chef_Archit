@@ -83,7 +83,11 @@ export default class View {
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
   generateMarkupButtonNext(e) {
-    return `<button data-goto="${
+    return `<p class = "mid_btn" data-goto="${this._data.page}"
+    class="page-no middle pagination__btn--mid">
+  <span>Page ${this._data.page}</span>
+</p>
+<button data-goto="${
       this._data.page + 1
     }" class="btn--inline pagination__btn--next">
     <span>Page ${this._data.page + 1}</span>
@@ -92,15 +96,20 @@ export default class View {
     </svg>
   </button>`;
   }
+
   generateMarkupButtonprevious(e) {
-    return `<button data-goto="${
+    return `
+<button data-goto="${
       this._data.page - 1
     }" class="btn--inline pagination__btn--prev">
   <svg class="search__icon">
     <use href="${icons}#icon-arrow-left"></use>
   </svg>
   <span>Page ${this._data.page - 1}</span>
-</button>`;
+</button><p class = "mid_btn" data-goto="${this._data.page}"
+class="page-no middle pagination__btn--mid ">
+<span>Page ${this._data.page}</span>
+</p>`;
   }
   generateMarkupButtonboth(e) {
     return `<button data-goto="${
@@ -117,6 +126,9 @@ export default class View {
 <svg class="search__icon">
   <use href="${icons}#icon-arrow-right"></use>
 </svg>
-</button`;
+</button> <p class = "mid_btn" data-goto="${this._data.page}"
+class="page-no middle pagination__btn--mid ">
+<span>Page ${this._data.page}</span>
+</p>`;
   }
 }

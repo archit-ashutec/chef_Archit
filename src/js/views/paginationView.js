@@ -11,6 +11,11 @@ class paginationView extends View {
       handler(goToPage);
     });
   }
+  _generateMiddleMarkup() {
+    if (this._data.page > 0) {
+      return generateMarkupMiddleButton;
+    }
+  }
 
   _generateMarkup() {
     const numPages = Math.ceil(

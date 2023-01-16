@@ -26,6 +26,25 @@
     &--next {
       float: right;
     }
+    &--mid {
+      display: flex;
+      justify-content: center;
+      // position: absolute;
+      // align-items: center;
+      // margin-left: 134px;
+      // color: #f38e82;
+      // background-color: #f9f5f3;
+      // border: none;
+      // border-radius: 10rem;
+      // align-items: center;
+      // padding: 0.8rem 1.2rem;
+      // font-size: 1.3rem;
+      // font-weight: 600;
+      // transition: all 0.2s;
+      // display: flex;
+
+      // border: none;
+    }
   }
 }
 
@@ -39,4 +58,20 @@
   .twitter-link:visited {
     color: $color-grey-dark-2;
   }
+}
+
+.mid_btn {
+  display: flex;
+  // margin: auto;
+  // position: absolute;
+  justify-content: center;
+  color: #f38e82;
+  // background-color: #f9f5f3;
+  border: none;
+  border-radius: 10rem;
+  align-items: center;
+  padding: 0.8rem 1.2rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  // transition: all 0.2s;
 }
