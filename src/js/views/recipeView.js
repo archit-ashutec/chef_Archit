@@ -1,7 +1,25 @@
 import View from './view.js';
 
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
+
+const Fraction = count => {
+  if (count) {
+    const [int, dec] = count
+      .toString()
+      .split('.')
+      .map(e => parseInt(e));
+    if (!dec) return count;
+    if (int === 0) {
+      const fr = new fraction(count);
+      return console.log(`${fr.numerator}/${fr.denominator}`);
+    }
+    if (int > 0) {
+      const fr = new fraction(count - int);
+      return `${int} ${fr.numerator}/${fr.denominator}`;
+    }
+  }
+  return '?';
+};
 
 class RecipeView extends View {
   _parentElement = document.querySelector('.recipe');
