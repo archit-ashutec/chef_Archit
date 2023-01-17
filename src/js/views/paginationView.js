@@ -28,7 +28,7 @@ class paginationView extends View {
     if (this._data.page === numPages && numPages > 1) {
       return this.generateMarkupButtonprevious();
     }
-    if (this._data.page < numPages) {
+    if (this._data.page < numPages && numPages > 1) {
       return this.generateMarkupButtonboth();
     }
     return '';

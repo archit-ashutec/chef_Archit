@@ -83,10 +83,7 @@ export default class View {
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
   generateMarkupButtonNext(e) {
-    return `<p class = "mid_btn" data-goto="${this._data.page}"
-    class="page-no middle pagination__btn--mid">
-  <span>Page ${this._data.page}</span>
-</p>
+    return `
 <button data-goto="${
       this._data.page + 1
     }" class="btn--inline pagination__btn--next">
@@ -94,7 +91,10 @@ export default class View {
     <svg class="search__icon">
       <use href="${icons}#icon-arrow-right"></use>
     </svg>
-  </button>`;
+  </button><p class = "mid_btn" data-goto="${this._data.page}"
+  class="page-no middle pagination__btn--mid">
+<span>Page ${this._data.page}</span>
+</p>`;
   }
 
   generateMarkupButtonprevious(e) {
